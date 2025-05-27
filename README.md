@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Rajat Mishra
-- 👀 I’m interested in problem solving and web development
+## 👋 Hi, I'm Rajat Mishra!
+- 💻 Full Stack Developer | Competitive Programmer
+- 🌱 Currently learning: Next.js, Web3
+- 🎯 Goal: Build impactful open-source projects
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rajat-mish&theme=dracula&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -30,6 +34,15 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-mish&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajat-mish&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rajat-mish&theme=dark)
+
+![snake gif](https://github.com/rajat-mish/rajat-mish/blob/output/github-contribution-grid-snake.svg)
+
+
+### 🔥 Featured Projects
+[![Repo Name](https://img.shields.io/badge/Project-Ecommerce-blue?style=for-the-badge&logo=github)](https://github.com/rajat-mish/ecommerce-project)
+[![Repo Name](https://img.shields.io/badge/Project-Contest_Tracker-orange?style=for-the-badge&logo=github)](https://github.com/rajat-mish/contest-tracker)
+
+
 
 
 
