@@ -104,7 +104,7 @@ public:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/rajat-mish/rajat-mish/main/github-metrics.svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-mish&theme=github-dark&hide_border=true&area=true"/>
 
 </p>
 
