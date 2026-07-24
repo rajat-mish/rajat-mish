@@ -145,39 +145,27 @@ public:
 
 ---
 
-# 📌 Pinned Repositories
+# 📌 Featured Repositories
 
 <p align="center">
 
 <a href="https://github.com/rajat-mish/CARECONNECT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat-mish&repo=CARECONNECT&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🚑_CareConnect-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/rajat-mish/URL_SHORTNER">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat-mish&repo=URL_SHORTNER&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🔗_URL_SHORTNER-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://github.com/rajat-mish/Sorting-Visualizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat-mish&repo=Sorting-Visualizer&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/📊_Sorting_Visualizer-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
 
-> Enable GitHub Actions to generate this animation.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rajat-mish/rajat-mish/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
