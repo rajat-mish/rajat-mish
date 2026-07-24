@@ -104,7 +104,7 @@ public:
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/39d353/rajat-mish" alt="GitHub Contribution Chart"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-mish&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
