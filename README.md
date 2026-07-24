@@ -26,9 +26,7 @@ Full Stack Developer • Software Engineer • Backend Enthusiast
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/rajat-mish">
-<img src="https://img.shields.io/github/followers/rajat-mish?style=for-the-badge"/>
-</a>
+
 
 </p>
 
