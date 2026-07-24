@@ -1,40 +1,40 @@
 <h1 align="center">Hi 👋, I'm Rajat Mishra</h1>
 
 <h3 align="center">
-Full Stack Developer • Competitive Programmer • B.Tech'26 @ NIT Kurukshetra
+Full Stack Developer • Software Engineer • B.Tech'26 @ NIT Kurukshetra
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajat-mishra-69b473257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/rajat-mishra-69b473257/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:rajatmishra6767@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:rajatmishra6767@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/silent_coderr/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<a href="https://leetcode.com/u/silent_coderr/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💻 Full Stack Developer (MERN)
-- 🌱 Learning **Next.js, Docker, Kubernetes & Web3**
-- 🚀 Interested in Backend Development & System Design
-- 📚 Solving DSA problems regularly
+- 🌱 Currently learning **Next.js, Docker, Kubernetes & Web3**
+- ⚡ Strong interest in Backend Development & System Design
+- 🧩 Love solving DSA problems
 - 🎯 Looking for Software Engineer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,bootstrap,docker,kubernetes,git,github,linux,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,bootstrap,docker,kubernetes,git,github,linux,vscode" />
 
 </p>
 
@@ -44,21 +44,21 @@ Full Stack Developer • Competitive Programmer • B.Tech'26 @ NIT Kurukshetra
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajat-mish&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajat-mish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-mish&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-mish&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rajat-mish&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rajat-mish&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
@@ -68,19 +68,7 @@ Full Stack Developer • Competitive Programmer • B.Tech'26 @ NIT Kurukshetra
 
 ---
 
-# 🔥 Contribution Heatmap
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/409ba5/rajat-mish" alt="GitHub Contribution Chart"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> This requires enabling GitHub Actions.
+# 🔥 Contribution Snake
 
 <p align="center">
 
@@ -90,6 +78,14 @@ Full Stack Developer • Competitive Programmer • B.Tech'26 @ NIT Kurukshetra
 
 ---
 
-### ✨ Thanks for visiting!
+# 📅 Contribution Heatmap
 
-⭐ If you like my repositories, consider giving them a star!
+<p align="center">
+
+<img src="https://ghchart.rshah.org/409ba5/rajat-mish" alt="GitHub Contribution Chart"/>
+
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
