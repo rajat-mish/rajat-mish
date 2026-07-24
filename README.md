@@ -141,7 +141,7 @@ public:
 |----------|-------------|
 | 🚑 **CareConnect** | Doctor Appointment Booking System built using MERN Stack with JWT Authentication, Razorpay Integration and Admin Dashboard. |
 | 🔗 **URL Shortener** | Full Stack URL Shortener with Analytics, Authentication and Custom Short URLs. |
-| ⚡ **QueueForge** | Redis + BullMQ powered Job Queue System with Docker support. |
+| 📊 **Sorting Visualizer** | Interactive visualization of sorting algorithms with adjustable speed, array generation and real-time animations. |
 
 ---
 
