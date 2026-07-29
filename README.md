@@ -83,7 +83,10 @@ public:
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=rajat-mish&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/api?user=rajat-mish&theme=tokyonight&hide_border=true"
+/>
 </p>
 
 ---
