@@ -83,7 +83,7 @@ public:
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com/?user=rajat-mish&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=rajat-mish&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
