@@ -108,23 +108,7 @@ public:
 
 ---
 
-# 📊 Activity Dashboard
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajat-mish&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajat-mish&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajat-mish&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajat-mish&theme=tokyonight"/>
-
-</p>
 
 ---
 
