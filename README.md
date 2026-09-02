@@ -87,11 +87,11 @@ public:
 
 # 📈 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-mish&theme=tokyo-night&hide_border=true&area=true"/>
 
-</p>
+</p> -->
 
 ---
 
